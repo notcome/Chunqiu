@@ -1,0 +1,16 @@
+{
+  "general": {
+    "plugin_dir": "plugins",
+    "hostname": "localhost",
+    "port": 9711
+  },
+  "static": {
+    "url": "/static",
+    "directory": "/static"
+  },
+  "documents": {
+    "url": "/wiki",
+    "directory": "/wiki",
+    "default_ext": ".md"
+  }
+}
